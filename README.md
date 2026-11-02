@@ -11,7 +11,7 @@ DevOps & Production IT Specialist a Cagliari. Di giorno mi occupo di pipeline CI
 ## Progetti
 
 - **[Iron Gym](https://irongym.edisyst.com)**: gestionale per palestre, utilizzabile dal browser e installabile sul telefono come PWA.
-- **[Scuola Guida](https://scuolaguida.edisyst.com)** : gestionale per autoscuole con i quiz per l'esame di teoria.
+- **[Scuola Guida](https://scuolaguida.edisyst.com)**: gestionale per autoscuole con i quiz per l'esame di teoria.
 
 ## Stack
 
