@@ -15,7 +15,7 @@ DevOps & Production IT Specialist a Cagliari. Di giorno mi occupo di pipeline CI
 
 ## Stack
 
-**DevOps**: GitLab CI/CD, Jenkins, Docker, Ansible, Bash, Linux (Ubuntu/Debian), Git  
+**DevOps**: GitHub Actions, GitLab CI/CD, Jenkins, Docker, Ansible, Coolify, Bash, Linux (Ubuntu/Debian), Git  
 **Sviluppo**: PHP 8, Laravel 11, Livewire 3, Alpine.js, JavaScript, MySQL
 
 ## Contatti
